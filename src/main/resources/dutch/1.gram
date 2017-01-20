@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar goodbye;
+
+public <zin1> = ik <opt>* spijkerbroek <opt>* jij <opt>* helpen;
+
+<opt> = ben | opzoek | naar | een | leuke | daar | kun | mij | vast | wel | bij | helpen | ja | dat | de | en | uh | ik | is | die | van | maar | in | niet | je | hebben ;

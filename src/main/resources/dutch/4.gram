@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar goodbye;
+
+public <zin4> = pak <opt>* broeken <opt>* zo terug ;
+
+<opt> = er | even | wat | bij | ja | dat | de | en | uh | ik | is | die | van | maar | in | niet | je | hebben ;

@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar goodbye;
+
+
+public <zin5> = hoog <opt>* laag <opt>* model <opt>* taille <opt>* erboven <opt>* eronder;
+
+<opt> = of | op | of | net | er | even | wat | bij | ja | dat | de | en | uh | ik | is | die | van | maar | in | niet | je | hebben ;

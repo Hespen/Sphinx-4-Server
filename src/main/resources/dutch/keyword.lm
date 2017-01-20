@@ -1,0 +1,70 @@
+
+\data\
+ngram 1=24
+ngram 2=33
+ngram 3=0
+
+\1-grams:
+-0.5642715	</s>
+-99	<s>	-7.205323
+-1.518514	broeken	-99
+-1.518514	erboven	-99
+-1.518514	eronder	-99
+-1.518514	gesloten	-99
+-1.518514	helpen	-99
+-1.518514	hoog	-99
+-1.518514	ik	-99
+-1.518514	jean	-99
+-1.518514	jennifer	-99
+-1.041393	jij	-7.506352
+-1.518514	laag	-99
+-1.518514	model	-99
+-1.518514	overdonderd	-99
+-1.518514	pak	-99
+-1.518514	score	-99
+-1.518514	skinny	-99
+-1.518514	spijkerbroek	-99
+-1.518514	stelde	-99
+-1.518514	taille	-99
+-1.518514	terug	-99
+-1.518514	vragen	-99
+-1.518514	zo	-99
+
+\2-grams:
+-0.9542425	<s> hoog
+-0.9542425	<s> ik
+-0.9542425	<s> jennifer
+-0.9542425	<s> jij
+-0.9542425	<s> overdonderd
+-0.9542425	<s> pak
+-0.9542425	<s> score
+-0.9542425	<s> skinny
+-0.9542425	<s> taille
+0	broeken zo
+0	erboven eronder
+0	eronder </s>
+0	gesloten vragen
+0	helpen </s>
+0	hoog laag
+0	ik spijkerbroek
+0	jean jij
+0	jennifer </s>
+-0.4771213	jij </s>
+-0.4771213	jij helpen
+-0.4771213	jij stelde
+0	laag model
+0	model </s>
+0	overdonderd </s>
+0	pak broeken
+0	score </s>
+0	skinny jean
+0	spijkerbroek jij
+0	stelde gesloten
+0	taille erboven
+0	terug </s>
+0	vragen </s>
+0	zo terug
+
+\3-grams:
+
+\end\

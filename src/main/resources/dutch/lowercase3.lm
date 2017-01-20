@@ -1,0 +1,1404 @@
+
+\data\
+ngram 1=269
+ngram 2=685
+ngram 3=437
+
+\1-grams:
+-3.034428	1	-0.002437886
+-2.733398	2	-0.002033004
+-2.858337	3	0.0001885719
+-3.034428	30	-0.002839638
+-1.18317	</s>
+-99	<s>	-0.1191714
+-1.654217	aan	-0.03212917
+-2.636488	achter	0.006456327
+-2.733398	ah	-0.004447403
+-2.636488	al	-0.007053493
+-2.636488	allemaal	-0.007273396
+-2.381215	als	0.004982868
+-3.034428	alsjeblieft	0.026221
+-2.858337	andere	-0.001833062
+-2.381215	antwoord	-0.008953802
+-2.858337	antwoorden	0.02405461
+-2.557307	beetje	0.004090425
+-3.034428	beginnen	-0.0002215784
+-3.034428	begon	0.01227844
+-2.294065	begroet	-0.003227707
+-2.858337	begroeten	-0.00142888
+-2.858337	behoefte	-0.002438632
+-3.034428	bekijken	-0.000423529
+-2.49036	ben	-0.0112832
+-3.034428	benieuwd	0.026221
+-2.858337	bent	0.02460951
+-2.733398	beweeg	0.00636716
+-3.034428	bewegen	0.026221
+-2.858337	beweging	-0.0008218987
+-2.256277	bij	0.0169914
+-2.636488	binnen	-0.00708991
+-2.733398	blauw	-0.0006013773
+-2.858337	blauwe	-0.004068259
+-2.557307	boot	-0.008446126
+-2.49036	broek	-0.009866253
+-2.159367	broeken	-0.02194385
+-2.858337	buurt	-0.004250292
+-2.733398	collectie	0.02300398
+-2.557307	cut	-0.006449729
+-2.733398	daar	-0.004679286
+-2.557307	dacht	0.003173806
+-2.335458	dan	-0.007627801
+-1.6727	dat	-0.003014803
+-1.57203	de	-0.08117623
+-2.858337	denk	0.004474441
+-2.18933	denken	0.01531082
+-2.381215	deze	-2.735481e-05
+-2.381215	die	-0.006693542
+-3.034428	direct	0.01227844
+-2.733398	dit	-0.002427426
+-3.034428	doe	-0.001834559
+-2.733398	doen	0.02300398
+-2.49036	donker	-0.007222448
+-2.733398	donkerblauwe	-0.005252772
+-3.034428	donkerder	0.002615633
+-2.636488	donkere	0.02408968
+-2.18933	door	-0.004033441
+-2.49036	dus	0.01594954
+-2.432368	echt	-0.009024025
+-1.454644	een	-0.1009436
+-2.733398	eens	0.01837922
+-3.034428	eerst	-0.0002215784
+-2.858337	ehm	-0.002451525
+-3.034428	eigenlijk	0.0009920998
+-2.034428	en	-0.02196358
+-2.256277	er	-0.008291705
+-2.636488	erbij	-0.007053493
+-2.858337	erboven	0.00100415
+-2.858337	eronder	0.02460951
+-2.159367	even	0.002968945
+-2.49036	fijn	-0.009243068
+-2.557307	fit	0.02797888
+-3.034428	floor	0.0007895851
+-2.636488	ga	-0.006047015
+-2.636488	gaan	0.0212801
+-1.803979	gaf	-0.02806997
+-2.432368	gedachten	0.01682371
+-2.335458	gekozen	-0.01051831
+-2.733398	gelijk	0.008472532
+-3.034428	geluisterd	-0.001028818
+-3.034428	gemaakt	0.026221
+-2.49036	genoeg	-0.002926689
+-2.49036	gepresenteerd	-0.007613445
+-2.49036	gesloten	-0.007613445
+-3.034428	gesprek	0.006496023
+-3.034428	gesprekken	-0.002437886
+-2.733398	geval	0.008889522
+-3.034428	geven	-0.000423529
+-2.636488	ging	-0.006651181
+-2.49036	goed	0.02847562
+-3.034428	goede	-0.002638808
+-3.034428	goedemiddag	-0.002638808
+-3.034428	goeie	-0.002839638
+-2.858337	groet	0.006940861
+-2.159367	haar	0.006844889
+-2.221514	had	0.03206546
+-3.034428	hallo	0.005676212
+-2.858337	he	0.02460951
+-2.49036	heb	0.009143605
+-2.080185	hebt	-0.02595869
+-2.636488	heeft	-0.006449886
+-2.733398	hele	-0.005654897
+-2.256277	helemaal	-0.0197918
+-2.557307	helpen	0.01981063
+-3.034428	hem	-0.002839638
+-2.49036	het	-0.01457333
+-2.858337	hey	-0.005276871
+-2.858337	hier	-0.003260643
+-3.034428	hieronder	-0.001633263
+-2.49036	hoe	-0.01148525
+-2.080185	hoog	-0.00671326
+-2.733398	hoor	0.001649388
+-2.557307	ie	-0.006833894
+-2.733398	ieder	-0.005654897
+-3.034428	iets	0.002209181
+-1.692005	ik	-0.07271071
+-2.013239	in	-0.006880384
+-2.636488	informatie	-0.005442007
+-2.034428	is	0.0202435
+-1.536117	je	-0.006343909
+-2.159367	jeans	-0.02198997
+-3.034428	jeetje	0.007317386
+-1.636488	jij	-0.07017322
+-2.636488	jou	0.02093881
+-2.636488	jouw	-0.004431786
+-2.381215	juist	-0.01243071
+-2.636488	kan	0.0008595893
+-2.858337	kassa	0.02460951
+-2.858337	keer	0.01066696
+-2.733398	keuzes	0.002676333
+-2.858337	kijk	-0.005678995
+-1.682245	klant	0.0007453784
+-2.034428	kleur	0.007274486
+-2.733398	kleurtje	0.02300398
+-2.636488	klik	-0.007676641
+-3.034428	klikken	-0.001633263
+-3.034428	klopt	-0.0008271481
+-3.034428	knoop	0.009584171
+-2.733398	knop	-0.00505157
+-2.432368	komt	0.0112337
+-2.858337	kon	-0.003848354
+-2.733398	kun	0.01519289
+-2.18933	laag	-0.01980707
+-3.034428	laat	-0.001834559
+-2.636488	langs	0.02140437
+-2.858337	lekker	-0.003244747
+-2.733398	leuk	-0.005654897
+-2.636488	leuke	-0.007053493
+-2.432368	licht	0.02106394
+-2.18933	lichte	-0.01837449
+-3.034428	lichter	-0.001834559
+-3.034428	lijkt	-0.001633263
+-2.733398	lijst	-0.00505157
+-2.733398	links	-0.00466403
+-2.636488	maak	-0.007053493
+-2.49036	maar	-0.00640572
+-2.557307	maat	0.01934507
+-3.034428	maatje	-0.002839638
+-3.034428	me	-0.002839638
+-3.034428	meerdere	-0.002638808
+-2.432368	met	0.009953856
+-3.034428	middag	0.007317386
+-3.034428	mij	0.026221
+-2.636488	mijn	-0.007053493
+-2.733398	misschien	0.009061431
+-2.105009	model	0.0123236
+-2.49036	moet	-0.007418727
+-2.858337	mooi	0.004064728
+-3.034428	mooie	-0.001834559
+-2.294065	naar	0.006878328
+-3.034428	nagedacht	-0.001834559
+-2.49036	nee	-0.003131883
+-2.557307	net	-0.009673256
+-2.294065	niet	-0.005415916
+-2.733398	nieuwe	-0.005654897
+-2.636488	niks	-0.002607442
+-2.858337	nog	-0.002249009
+-2.858337	nooit	-0.003446043
+-2.636488	nou	0.001915576
+-1.87306	of	-0.02892001
+-2.858337	oh	-0.004471502
+-2.432368	oke	0.007829124
+-2.49036	om	-0.004767643
+-2.636488	oogcontact	-0.004027037
+-3.034428	ook	-0.001028818
+-2.49036	op	0.001197696
+-2.557307	over	-0.009290919
+-2.636488	overdonderd	-0.005240152
+-2.294065	pak	-0.006317697
+-2.49036	pakken	0.01822272
+-2.733398	perfect	0.004100375
+-3.034428	poeh	0.007317386
+-2.636488	positie	-0.00584544
+-2.636488	precies	0.002312268
+-2.636488	presenteerde	-0.008482009
+-2.858337	prima	-0.0008218987
+-2.557307	proberen	0.01981063
+-2.858337	qua	-0.0008218987
+-2.733398	reageerde	-0.00364054
+-3.034428	recht	-0.002035761
+-2.858337	rechts	-0.002640301
+-2.858337	samengevat	0.02460951
+-2.858337	samenvatting	-0.00142888
+-3.034428	scherm	0.002615633
+-2.080185	skinny	-0.01688909
+-3.034428	skippen	0.026221
+-2.557307	slim	-0.008446126
+-2.636488	spijkerbroek	0.02063431
+-2.858337	staan	0.02460951
+-2.858337	staat	-0.003848354
+-3.034428	start	0.009584171
+-2.557307	stelde	0.004686636
+-3.034428	stellen	0.026221
+-2.858337	taille	0.00100415
+-1.87306	te	-0.04702229
+-2.636488	terug	0.02140437
+-3.034428	the	-0.002839638
+-3.034428	tijdens	-0.002839638
+-3.034428	totaal	-0.002839638
+-3.034428	tuurlijk	0.007317386
+-2.636488	u	-0.006852384
+-2.858337	uitleg	-0.004874374
+-2.105009	van	-0.009189315
+-2.636488	vanuit	-0.007053493
+-3.034428	vast	-0.0002215784
+-2.335458	verder	0.01967514
+-3.034428	verkeerde	-0.002638808
+-3.034428	verkoopgesprek	0.026221
+-2.858337	verteld	-0.002236869
+-2.733398	vertelde	0.01287102
+-2.858337	vind	0.004064728
+-2.636488	vinden	0.02140437
+-2.557307	vinger	0.02151112
+-1.904094	voor	-0.008064218
+-2.636488	vraag	-0.007053493
+-2.080185	vragen	0.01501148
+-2.49036	vroeg	0.008352775
+-2.858337	waarmee	-0.003848354
+-3.034428	wacht	0.007317386
+-2.636488	was	-0.007053493
+-1.619455	wat	-0.01849062
+-3.034428	we	-0.002839638
+-2.636488	weer	0.01132305
+-2.733398	weet	0.006186221
+-2.159367	wel	-0.02282578
+-2.636488	welke	-0.007053493
+-2.636488	werk	-0.006248497
+-3.034428	wijd	0.002615633
+-2.49036	wil	0.001197698
+-2.557307	wilt	0.004654439
+-2.733398	winkel	0.02244908
+-3.034428	wordt	-0.001834559
+-3.034428	yours	-0.001834559
+-2.636488	zat	0.009171333
+-1.79139	ze	-0.02566905
+-2.858337	zeggen	0.03960982
+-3.034428	zelf	-0.0002215784
+-2.636488	zien	0.02725039
+-2.636488	zijn	0.02063431
+-2.381215	zit	-0.008541169
+-2.432368	zitten	-0.007168817
+-2.49036	zo	-0.01126117
+-2.858337	zodat	0.007972687
+-2.294065	zoek	0.0276848
+-2.432368	zoekt	0.02632022
+-2.636488	zonder	-0.006263644
+-2.221514	zou	0.0008200053
+-2.733398	zwart	-0.0006013773
+-2.49036	zwarte	-0.007613445
+
+\2-grams:
+-2.128722	1 beweeg
+-2.131939	2 beweeg
+-2.131939	2 te
+-2.131939	2 weer
+-2.130334	3 beweeg
+-2.130334	3 te
+-2.128722	30 alsjeblieft
+-2.009663	<s> ah	0
+-2.310693	<s> als
+-1.164565	<s> de	0.01986628
+-2.009663	<s> dit	0
+-2.310693	<s> doe
+-1.912753	<s> dus	-5.935971e-05
+-2.134602	<s> een	0.01061362
+-2.310693	<s> ehm
+-2.009663	<s> en	-0.0003625681
+-2.310693	<s> goedemiddag
+-2.310693	<s> hallo
+-2.310693	<s> heb
+-2.009663	<s> helemaal	0.002983526
+-2.134602	<s> het	-7.123174e-05
+-2.134602	<s> hey
+-1.833572	<s> hoe	-2.957135e-05
+-1.912753	<s> ik	0.00222234
+-2.310693	<s> in
+-2.310693	<s> je
+-2.310693	<s> jeetje
+-1.043522	<s> jij	-0.002845731
+-2.310693	<s> kan
+-2.134602	<s> klik	-3.58792e-05
+-2.310693	<s> klopt
+-2.310693	<s> laag
+-2.134602	<s> licht	-8.871406e-05
+-2.134602	<s> mooi	0
+-2.310693	<s> nee
+-2.310693	<s> nou
+-2.134602	<s> oh
+-1.708633	<s> oke	0
+-2.009663	<s> perfect	0
+-2.310693	<s> poeh
+-2.134602	<s> prima	0
+-2.310693	<s> the
+-2.310693	<s> tuurlijk
+-2.134602	<s> van	0.002861635
+-2.009663	<s> vanuit	0.001599612
+-2.310693	<s> voor
+-2.009663	<s> wat	0.008781934
+-2.310693	<s> wil
+-0.9931605	aan dat	-0.002485178
+-1.456918	aan een	0.01370384
+-2.021189	aan jeans	-0.0002075979
+-2.197281	aan met
+-2.197281	aan te
+-2.021189	aan wat	0.01038746
+-1.957448	achter de	-0.000825014
+-1.957448	achter in	-0.000304875
+-1.830909	ah dan	-0.0001409077
+-1.735599	al jouw	0
+-1.832509	allemaal gesloten	0.00478127
+-2.133539	allemaal nou
+-2.139879	als er
+-1.838849	als je	0.00447692
+-1.741939	als ze	0.01105146
+-2.128722	alsjeblieft </s>
+-1.954242	andere jeans	0.002916836
+-2.139879	antwoord 1
+-1.838849	antwoord 2
+-1.963788	antwoord 3
+-2.139879	antwoord aan
+-2.139879	antwoord geven
+-2.130334	antwoorden </s>
+-2.130334	antwoorden zijn
+-1.959041	beetje donkere	-3.58792e-05
+-2.135133	beetje een
+-2.135133	beetje licht
+-2.135133	beetje wijd
+-2.128722	beginnen even
+-2.128722	begon een
+-1.966924	begroet haar	0.001351809
+-1.489802	begroet je	-0.0007653795
+-1.954242	begroeten van	-0.0002404833
+-1.954242	behoefte helemaal	0.004589053
+-2.128722	bekijken door
+-2.136721	ben benieuwd
+-2.136721	ben op
+-1.738781	ben zo	-5.935971e-05
+-2.128722	benieuwd </s>
+-1.954242	bent </s>
+-1.830909	beweeg je	0.0015109
+-2.128722	bewegen </s>
+-1.954242	beweging en	-0.000288947
+-1.746634	bij </s>
+-2.144574	bij helpen
+-1.746634	bij ik	0.001829162
+-1.968483	bij kon	0
+-2.133539	binnen helemaal
+-1.957448	binnen nieuwe	0.001605527
+-2.133539	binnen vanuit
+-1.830909	blauw of	-0.0005491702
+-2.130334	blauwe boot
+-2.130334	blauwe slim
+-1.658011	boot cut	0
+-1.960629	broek heb	0.001534295
+-2.136721	broek zijn
+-1.835691	broek zoek	0.003017861
+-1.408856	broeken bij	-7.635914e-05
+-1.751279	broeken erbij	0
+-1.954242	buurt bent	0
+-1.830909	collectie </s>
+-1.834103	cut die	0.004698773
+-2.135133	cut echt
+-2.135133	cut wel
+-2.131939	daar had
+-2.131939	daar komt
+-2.131939	daar kun
+-1.658011	dacht je	-0.001397275
+-2.14145	dan die
+-1.84042	dan heb	-7.123221e-05
+-1.965358	dan pak	-0.0001404015
+-1.965358	dan te	0.01465277
+-2.14145	dan van
+-1.650446	dat de	-0.002044828
+-2.018423	dat een	0.01324572
+-2.018423	dat ik	-0.00064283
+-2.018423	dat is	-0.000288947
+-1.650446	dat je	-0.0008600177
+-2.018423	dat staat	0
+-2.018423	dat wat	-0.0007489035
+-1.893484	dat wel	-0.0002537179
+-2.194514	dat wordt
+-1.194514	dat ze	0.004461832
+-1.909823	de donkerblauwe	0
+-2.034762	de kassa	0
+-0.8684307	de klant	-0.0002602488
+-2.034762	de taille	0
+-2.210853	de uitleg
+-1.909823	de winkel	0
+-1.909823	de zwarte	0.00478127
+-1.954242	denk dat	-0.0006698593
+-1.407314	denken </s>
+-1.971585	denken aan	0.01058447
+-2.147676	denken hoor
+-2.139879	deze donker
+-2.139879	deze een
+-1.838849	deze knop	0
+-1.838849	deze zwarte	0.00478127
+-2.139879	die bekijken
+-1.595811	die jij	-0.001541734
+-2.139879	die lijkt
+-2.128722	direct een
+-1.830909	dit is	-0.0003625681
+-2.128722	doe maar
+-1.830909	doen </s>
+-1.835691	donker blauw	0
+-1.960629	donker blauwe
+-2.136721	donker of
+-1.830909	donkerblauwe boot	0.003193354
+-2.128722	donkerder of
+-1.957448	donkere </s>
+-1.957448	donkere kleur	0.005871361
+-1.749736	door al	0
+-2.147676	door een
+-2.147676	door hieronder
+-1.545616	door te	-0.0008040294
+-1.960629	dus een	0.009303531
+-1.738781	dus je	-0.001427063
+-2.138303	echt helemaal
+-2.138303	echt iets
+-2.138303	echt niks
+-1.837273	echt precies	-2.392009e-05
+-2.138303	echt voor
+-2.058173	een andere	0
+-2.234264	een antwoord
+-1.757143	een beetje	0
+-2.058173	een donkere	-3.58792e-05
+-2.234264	een gesprek
+-2.234264	een goede
+-1.933234	een hele	0
+-1.493901	een hoog	0.00271241
+-2.058173	een jeans	0.002916836
+-2.058173	een keer	0
+-1.933234	een keuzes	0
+-2.234264	een klant
+-1.836324	een laag	0.002898116
+-1.933234	een leuk	0
+-1.836324	een leuke	0
+-1.389166	een lichte	0
+-2.234264	een mooie
+-1.456113	een skinny	-0.0004466083
+-2.234264	een totaal
+-1.836324	een vraag	0
+-2.234264	een vragen
+-1.955848	eens een	-0.001037301
+-2.131939	eens wat
+-2.128722	eerst wel
+-2.130334	ehm even
+-2.130334	ehm nou
+-2.128722	eigenlijk in
+-1.980761	en begroet	-0.0001404015
+-1.980761	en ga	0.003205139
+-1.980761	en groet	0
+-1.855822	en moet	0.003157739
+-1.612784	en wat	0.01235526
+-1.980761	en zat	-3.58792e-05
+-1.980761	en zoek	0.004623388
+-1.491362	er even	0.001282384
+-2.144574	er meerdere
+-1.968483	er wat	0.0160646
+-1.735599	erbij ging	0
+-1.954242	erboven of	-0.0004284121
+-1.954242	eronder </s>
+-2.149219	even denken
+-1.973128	even een	-0.001037301
+-1.973128	even verder	-0.0001232964
+-1.450249	even wat	0.006572124
+-1.960629	fijn zijn	0.001581607
+-1.738781	fijn zou	-0.0002323044
+-2.135133	fit </s>
+-2.135133	fit dan
+-1.959041	fit in	0.002753549
+-2.135133	fit of
+-2.128722	floor is
+-1.735599	ga verder	-0.0001467764
+-1.957448	gaan </s>
+-1.957448	gaan pakken	0.006386797
+-0.9734165	gaf aan	-0.002635803
+-2.001445	gaf een
+-1.837273	gedachten </s>
+-1.962211	gedachten had	0.002972834
+-1.962211	gedachten qua	0
+-1.44248	gekozen voor	-0.0006505717
+-2.131939	gelijk een
+-1.955848	gelijk weer	-3.58792e-05
+-2.128722	geluisterd naar
+-2.128722	gemaakt </s>
+-1.960629	genoeg ik	0.007900944
+-1.738781	genoeg informatie	0
+-1.592653	gepresenteerd hebt	-0.0005038343
+-1.592653	gesloten vragen	0.005896399
+-2.128722	gesprek aan
+-2.128722	gesprekken kun
+-1.955848	geval een	0.002811715
+-2.131939	geval fijn
+-2.128722	geven door
+-1.735599	ging pakken	0.003181659
+-2.136721	goed </s>
+-1.960629	goed hebt	-0.0002567512
+-1.835691	goed ik	0.00791895
+-2.128722	goede samenvatting
+-2.128722	goedemiddag waarmee
+-2.128722	goeie middag
+-1.954242	groet de	0.05832454
+-1.848189	haar </s>
+-1.973128	haar behoefte	0
+-1.973128	haar buurt	0
+-1.848189	haar is	-0.0003625681
+-1.973128	haar maat	-5.361997e-05
+-1.973128	haar niet	-0.0001404015
+-1.748188	had </s>
+-1.748188	had en	0.002666222
+-2.146128	had ik
+-1.845098	had je	0.00447692
+-2.128722	hallo ik
+-1.954242	he </s>
+-1.835691	heb ik	-0.0008360157
+-1.835691	heb je	0.00447692
+-1.454845	hebt gekozen	0
+-1.852785	hebt helemaal	-0.0001865211
+-1.852785	hebt niet	-0.0001637964
+-1.977724	hebt samengevat	0
+-1.735599	heeft komt	-8.871127e-05
+-1.830909	hele lijst	0
+-1.667453	helemaal goed	-4.171114e-05
+-2.144574	helemaal laat
+-2.144574	helemaal niet
+-2.144574	helemaal nieuwe
+-1.843544	helemaal niks	0.001599612
+-1.658011	helpen </s>
+-2.128722	hem donkerder
+-1.960629	het begroeten	0
+-2.136721	het moet
+-2.136721	het ook
+-2.136721	het scherm
+-2.136721	het verkoopgesprek
+-2.130334	hey daar
+-2.130334	hey goeie
+-2.130334	hier als
+-2.130334	hier om
+-2.128722	hieronder met
+-1.738781	hoe begroet	0.006234876
+-2.136721	hoe knoop
+-2.136721	hoe start
+-2.153815	hoog een
+-1.852785	hoog licht	-9.46261e-05
+-1.500602	hoog model	-0.0005075149
+-1.755875	hoog of	-0.0007935539
+-2.153815	hoog slim
+-2.131939	hoor daar
+-1.955848	hoor ik	0.007900944
+-1.658011	ie laag	-0.0002777595
+-1.830909	ieder geval	0
+-2.128722	iets voor
+-1.647662	ik ben	0
+-2.015639	ik denk	0
+-1.8907	ik echt	-9.46261e-05
+-2.015639	ik eens	-1.800572e-05
+-2.015639	ik er	0.009387935
+-2.015639	ik ga	0.003205139
+-2.015639	ik kijk
+-1.79379	ik maak	0
+-2.19173	ik nog
+-2.015639	ik nooit	0
+-1.538518	ik pak	-0.0001174472
+-1.79379	ik u	0
+-2.19173	ik vertelde
+-2.015639	ik weet	-1.800572e-05
+-2.19173	ik zeggen
+-2.19173	ik zoek
+-1.982271	in beweging	0
+-1.982271	in de	0.0005258247
+-1.760422	in een	0.01640433
+-1.556303	in gedachten	0
+-1.982271	in haar	-0.0002075979
+-1.857332	in ieder	0
+-1.735599	informatie had	-0.0002323044
+-1.855822	is </s>
+-1.855822	is antwoord
+-2.156852	is boot
+-1.980761	is echt
+-1.855822	is je	-0.00116169
+-1.855822	is naar	0.00142412
+-1.855822	is wat	-0.0009779003
+-2.156852	is yours
+-2.041393	je </s>
+-2.217484	je antwoord
+-1.916454	je dan	-0.0001052907
+-1.916454	je dat	-0.0008721719
+-1.564271	je de	0.05040275
+-2.217484	je die
+-1.916454	je een	0.009321537
+-2.217484	je eigenlijk
+-2.041393	je er	-0.0001573823
+-1.819544	je genoeg	-5.935971e-05
+-1.916454	je haar	-0.0001895921
+-2.217484	je hem
+-2.217484	je het
+-1.673416	je in	0.004043792
+-2.041393	je komt	-8.871406e-05
+-1.916454	je maat	-3.561424e-05
+-2.217484	je precies
+-1.819544	je van	0.001215902
+-2.041393	je verteld	0
+-1.740363	je vinger	0
+-2.217484	je wat
+-2.217484	je wel
+-1.819544	je wilt	-2.978835e-05
+-1.973128	jeans he	0
+-1.973128	jeans hoog	0.009083275
+-1.672098	jeans wil	-3.561564e-05
+-2.149219	jeans zoekt
+-1.751279	jeans zonder	0
+-2.128722	jeetje wat
+-2.200029	jij begon
+-1.655961	jij gaf	0.04081593
+-1.655961	jij gepresenteerd	0
+-1.501059	jij hebt	-0.0004563415
+-2.200029	jij me
+-1.802089	jij presenteerde	0
+-1.898999	jij reageerde	0
+-1.722908	jij stelde	0
+-2.023938	jij vertelde	-1.800572e-05
+-1.655961	jij vroeg	0
+-1.898999	jij zoekt	-9.46261e-05
+-1.898999	jij zou	-0.0002090805
+-2.133539	jou </s>
+-2.133539	jou gemaakt
+-1.957448	jou niet	-0.0001404015
+-1.735599	jouw vragen	-0.0003708135
+-1.662758	juist hoog	-0.0002718274
+-2.139879	juist licht
+-2.139879	juist lichter
+-2.139879	juist slim
+-1.735599	kan ik	-0.001018678
+-1.954242	kassa </s>
+-1.954242	keer een	0.01061362
+-1.955848	keuzes aan	-0.0006965427
+-2.131939	keuzes nou
+-2.130334	kijk eerst
+-2.130334	kijk zelf
+-1.452762	klant </s>
+-2.017033	klant als	0.001487675
+-2.017033	klant dat	-0.0006698593
+-2.193125	klant de
+-1.113943	klant gaf	0.01143249
+-2.017033	klant je	-0.0008863169
+-1.795185	klant was	0
+-1.612784	kleur </s>
+-1.980761	kleur haar	-0.0002075979
+-2.156852	kleur had
+-1.980761	kleur ze	-0.0005167471
+-1.503639	kleur zit	0
+-1.830909	kleurtje </s>
+-1.957448	klik hier
+-1.957448	klik om	-7.123174e-05
+-2.128722	klikken met
+-2.128722	klopt helemaal
+-2.128722	knoop je
+-1.830909	knop om	-7.123221e-05
+-2.138303	komt een
+-1.962211	komt in	-0.000304875
+-1.740363	komt ze	-0.0008071489
+-1.954242	kon gaan	-3.58792e-05
+-1.955848	kun je
+-2.131939	kun jij
+-1.603608	laag model	-0.0005190428
+-1.971585	laag vind	0
+-1.670555	laag zitten	-7.097051e-05
+-2.128722	laat maar
+-1.735599	langs </s>
+-1.954242	lekker zitten	-8.871406e-05
+-1.830909	leuk kleurtje	0
+-1.735599	leuke spijkerbroek	0
+-2.138303	licht </s>
+-2.138303	licht moet
+-1.962211	licht nee	0.004763266
+-1.837273	licht of	-0.0005491702
+-2.147676	lichte broek
+-1.334763	lichte kleur	0.005834945
+-2.128722	lichter moet
+-2.128722	lijkt echt
+-1.830909	lijst gesloten	0.00478127
+-2.131939	links naar
+-1.955848	links over	0.001557864
+-1.735599	maak oogcontact	0
+-2.136721	maar eens
+-1.738781	maar gaf	0.04075658
+-2.136721	maar maatje
+-2.135133	maat </s>
+-1.959041	maat dan	-0.0001232964
+-1.959041	maat zodat	0
+-2.128722	maatje 30
+-2.128722	me vast
+-2.128722	meerdere antwoorden
+-2.138303	met de
+-1.962211	met je	0.003116427
+-1.740363	met mijn	0
+-2.128722	middag wat
+-2.128722	mij </s>
+-1.735599	mijn werk	0
+-1.830909	misschien een	-0.001363608
+-1.976197	model </s>
+-1.754348	model fijn	-5.935971e-05
+-1.976197	model in	0.002753549
+-1.976197	model op	-7.123174e-05
+-1.976197	model slim	0.004798881
+-1.976197	model ze	-0.0005167471
+-1.976197	model zou
+-1.659599	moet ie	0
+-2.136721	moet in
+-1.954242	mooi ik	0.007900944
+-2.128722	mooie donker
+-1.745075	naar een	-0.001680222
+-1.966924	naar haar	-0.0002075979
+-1.966924	naar links	-1.800572e-05
+-2.143015	naar recht
+-2.143015	naar wat
+-2.128722	nagedacht het
+-1.659599	nee dat	-0.001245424
+-2.136721	nee wacht
+-1.834103	net binnen	-1.787348e-05
+-1.959041	net erboven	0
+-1.966924	niet hoor	-1.800572e-05
+-1.841985	niet is	-0.0003625681
+-2.143015	niet over
+-2.143015	niet wat
+-2.143015	niet weet
+-1.966924	niet zou	-0.0001742407
+-1.830909	nieuwe collectie	0
+-1.735599	niks voor	-0.0004847776
+-2.130334	nog niet
+-2.130334	nog verder
+-1.954242	nooit zo	-7.123174e-05
+-2.133539	nou ik
+-2.133539	nou laag
+-1.957448	nou nee	0.004763266
+-1.869232	of donker	-7.123221e-05
+-1.99417	of een	0.001524917
+-1.99417	of eronder	0
+-2.170262	of is
+-1.517049	of juist	0
+-1.99417	of klik	-3.58792e-05
+-1.99417	of laag	0.006103254
+-1.869232	of misschien	0
+-1.99417	of net	-5.361997e-05
+-1.869232	of zwart	0
+-2.130334	oh ehm
+-2.130334	oh nee
+-1.740363	oke en	-0.0005116919
+-1.962211	oke ik	-0.00064283
+-2.138303	oke wat
+-1.835691	om antwoord	0.001505681
+-2.136721	om te
+-1.960629	om verder	-0.0001232964
+-1.735599	oogcontact en	-0.0005116919
+-2.128722	ook niet
+-1.960629	op de	-0.000825014
+-1.738781	op zoek	-0.0001398763
+-1.834103	over deze	-0.0001178519
+-2.135133	over het
+-2.135133	over nagedacht
+-1.735599	overdonderd door	-0.0002604038
+-1.598947	pak er	0.003001138
+-1.966924	pak ik	-0.00064283
+-1.966924	pak wel	0.002916836
+-1.592653	pakken </s>
+-1.830909	perfect wat	-0.0009779003
+-2.128722	poeh wat
+-1.735599	positie begroet	0.006234876
+-2.133539	precies donker
+-1.832509	precies wat	-0.0009779003
+-2.133539	presenteerde direct
+-1.832509	presenteerde gelijk	0
+-1.954242	prima en	0.005871361
+-1.658011	proberen </s>
+-1.954242	qua kleur	0.005871361
+-1.830909	reageerde door	0.006085641
+-2.128722	recht over
+-1.954242	rechts naar	-0.0001404015
+-1.954242	samengevat </s>
+-1.954242	samenvatting van	-0.0002404833
+-2.128722	scherm te
+-1.852785	skinny die	0.004698773
+-1.500602	skinny jeans	-0.0003113579
+-1.852785	skinny jij	-0.0009431047
+-1.852785	skinny net	-4.766276e-05
+-2.128722	skippen </s>
+-1.658011	slim fit	0
+-1.832509	spijkerbroek </s>
+-2.133539	spijkerbroek daar
+-1.954242	staan </s>
+-1.954242	staat jou	-3.58792e-05
+-2.128722	start je
+-1.959041	stelde allemaal	0.001581607
+-1.959041	stelde een	0.000241919
+-2.135133	stelde weer
+-2.128722	stellen </s>
+-1.954242	taille of	-0.0004284121
+-2.170262	te antwoorden
+-2.170262	te bewegen
+-1.357348	te denken	-8.133613e-05
+-1.99417	te gaan	-3.58792e-05
+-2.170262	te klikken
+-2.170262	te stellen
+-1.626194	te vragen	0.007407033
+-2.170262	te zeggen
+-1.869232	te zien	-1.787348e-05
+-1.735599	terug </s>
+-2.128722	the floor
+-2.128722	tijdens gesprekken
+-2.128722	totaal verkeerde
+-2.128722	tuurlijk wat
+-1.735599	u helpen	0.001593743
+-2.130334	uitleg tijdens
+-2.130334	uitleg wilt
+-1.754348	van achter	0
+-1.976197	van dat	-0.0006698593
+-1.976197	van de	0.05832454
+-1.675167	van deze	-7.018913e-05
+-2.152288	van links
+-1.976197	van rechts	0
+-1.735599	vanuit welke	0
+-2.128722	vast wel
+-1.965358	verder </s>
+-2.14145	verder door
+-1.74351	verder met	-8.871127e-05
+-1.965358	verder te	-0.0004284121
+-2.128722	verkeerde samenvatting
+-2.128722	verkoopgesprek </s>
+-1.954242	verteld had	0.002972834
+-1.955848	vertelde de	0.05832454
+-2.131939	vertelde ik
+-1.954242	vind ik	-0.00064283
+-1.735599	vinden </s>
+-2.135133	vinger </s>
+-2.135133	vinger over
+-1.834103	vinger van	-0.0002224776
+-1.690196	voor broek	-4.171114e-05
+-1.866287	voor haar	-0.0002537179
+-1.866287	voor ik	0.002204466
+-2.167317	voor je
+-1.991226	voor jou
+-2.167317	voor kan
+-1.866287	voor kleur	-0.0002709413
+-2.167317	voor mij
+-1.991226	voor model	-0.0002404833
+-1.991226	voor van	0.002861635
+-2.167317	voor waarmee
+-2.167317	voor wat
+-2.167317	voor we
+-1.735599	vraag heeft	0
+-1.454845	vragen </s>
+-2.153815	vragen allemaal
+-1.755875	vragen maar	-5.935971e-05
+-2.153815	vragen te
+-1.977724	vragen wat	0.01038746
+-1.960629	vroeg aan	-0.0006965427
+-1.960629	vroeg naar	-0.0001404015
+-1.960629	vroeg wat	0.01038746
+-1.954242	waarmee kan	0.003205139
+-2.128722	wacht wat
+-1.735599	was overdonderd	0
+-1.327699	wat broeken	0
+-1.725639	wat dacht	0
+-2.02667	wat de	0.05832454
+-1.804821	wat een	-0.001339688
+-2.02667	wat had	0.001396446
+-1.901731	wat ik
+-1.901731	wat is	-0.0003625681
+-1.901731	wat jij	-0.0009431047
+-2.202761	wat uitleg
+-1.462398	wat voor	-0.00115791
+-1.901731	wat ze	-0.0006673513
+-2.202761	wat zien
+-2.128722	we beginnen
+-2.133539	weer allemaal
+-1.957448	weer een	-0.001037301
+-2.133539	weer te
+-1.955848	weet genoeg	-7.123174e-05
+-2.131939	weet je
+-2.149219	wel bij
+-1.848189	wel doen	0
+-1.751279	wel even	-0.0003472408
+-2.149219	wel geluisterd
+-2.149219	wel goed
+-1.751279	wel langs	0
+-1.735599	welke positie	0
+-1.735599	werk als	-0.0001178505
+-2.128722	wijd of
+-2.136721	wil je
+-1.659599	wil proberen	0
+-1.737193	wilt een	0.01238925
+-2.135133	wilt skippen
+-1.955848	winkel </s>
+-2.131939	winkel binnen
+-2.128722	wordt het
+-2.128722	yours hoe
+-1.957448	zat je	0.0004438367
+-1.957448	zat te	0.01465277
+-1.525764	ze aan	0.001039148
+-1.366064	ze een	0.01307141
+-2.002886	ze in	0.007381952
+-1.877947	ze op	0.001540252
+-1.781037	ze wel	-0.0002883025
+-2.002886	ze zat	-3.58792e-05
+-1.877947	ze zoekt	0.0015109
+-2.130334	zeggen </s>
+-2.130334	zeggen een
+-2.128722	zelf wel
+-2.133539	zien </s>
+-1.957448	zien of	-0.0004284121
+-2.133539	zien zou
+-1.832509	zijn </s>
+-2.133539	zijn kun
+-1.486667	zit te	0.005107456
+-1.962211	zitten dus	-7.123174e-05
+-1.661181	zitten of	0.00375843
+-1.960629	zo lekker	0
+-1.738781	zo terug	0
+-1.954242	zodat je	-0.0008863169
+-2.143015	zoek </s>
+-1.841985	zoek is	-0.0003625681
+-1.665894	zoek je	-0.00033997
+-2.143015	zoek naar
+-1.740363	zoekt </s>
+-1.837273	zoekt wat	0.001788314
+-1.832509	zonder door	0.006085641
+-2.133539	zonder nog
+-2.146128	zou fijn
+-2.146128	zou ik
+-2.146128	zou in
+-1.845098	zou je	-0.00116169
+-1.970037	zou staan	0
+-1.748188	zou vinden	0
+-1.830909	zwart of	-0.0005491702
+-1.592653	zwarte skinny	-0.0005038343
+
+\3-grams:
+-1.954242	denken aan een
+-0.9705212	gaf aan dat
+-1.954242	keuzes aan jeans
+-1.954242	vroeg aan wat
+-1.486667	ze aan een
+-1.957448	van achter de
+-1.957448	van achter in
+-1.830909	<s> ah dan
+-1.735599	door al jouw
+-1.954242	stelde allemaal gesloten
+-1.954242	klant als je
+-1.735599	werk als ze
+-1.954242	een andere jeans
+-1.955848	om antwoord 2
+-1.959041	een beetje donkere
+-1.954242	en begroet haar
+-1.735599	hoe begroet je
+-1.735599	positie begroet je
+-1.954242	het begroeten van
+-1.954242	haar behoefte helemaal
+-1.738781	ik ben zo
+-1.954242	buurt bent </s>
+-1.954242	in beweging en
+-1.745075	broeken bij </s>
+-1.745075	broeken bij ik
+-1.966924	broeken bij kon
+-1.955848	net binnen nieuwe
+-1.830909	donker blauw of
+-1.830909	donkerblauwe boot cut
+-1.959041	voor broek heb
+-1.834103	voor broek zoek
+-1.408856	wat broeken bij
+-1.751279	wat broeken erbij
+-1.954242	haar buurt bent
+-1.830909	nieuwe collectie </s>
+-1.834103	boot cut die
+-1.658011	wat dacht je
+-1.830909	ah dan heb
+-1.955848	je dan te
+-1.954242	maat dan pak
+-1.630573	aan dat de
+-1.630573	aan dat je
+-1.174641	aan dat ze
+-1.954242	denk dat ik
+-1.830909	je dat wel
+-1.954242	klant dat een
+-1.959041	nee dat is
+-1.959041	nee dat staat
+-1.954242	van dat wat
+-1.022664	<s> de klant
+-1.954242	achter de kassa
+-1.835691	dat de donkerblauwe
+-1.835691	dat de zwarte
+-1.954242	groet de klant
+-1.954242	in de winkel
+-1.537819	je de klant
+-1.954242	op de taille
+-1.954242	van de klant
+-1.954242	vertelde de klant
+-1.954242	wat de klant
+-1.954242	ik denk dat
+-1.405765	te denken </s>
+-1.970037	te denken aan
+-1.830909	over deze knop
+-1.834103	van deze zwarte
+-1.830909	cut die jij
+-1.830909	skinny die jij
+-1.830909	<s> dit is
+-1.830909	wel doen </s>
+-1.830909	of donker blauw
+-1.830909	de donkerblauwe boot
+-1.954242	beetje donkere kleur
+-1.954242	een donkere </s>
+-1.735599	overdonderd door al
+-1.830909	reageerde door te
+-1.830909	zonder door te
+-1.735599	<s> dus je
+-1.954242	zitten dus een
+-1.830909	ik echt precies
+-1.954242	<s> een skinny
+-1.966924	aan een hoog
+-1.489802	aan een lichte
+-1.954242	dat een lichte
+-1.954242	dus een hoog
+-1.954242	eens een keer
+-1.954242	even een donkere
+-1.954242	geval een beetje
+-1.957448	in een beetje
+-1.957448	in een lichte
+-1.955848	je een hoog
+-1.954242	keer een skinny
+-1.830909	misschien een leuk
+-1.735599	naar een leuke
+-1.954242	of een laag
+-1.954242	stelde een hele
+-1.832509	wat een keuzes
+-1.954242	weer een andere
+-1.957448	wilt een laag
+-1.957448	wilt een skinny
+-1.748188	ze een hoog
+-1.748188	ze een skinny
+-1.748188	ze een vraag
+-1.954242	ik eens een
+-1.830909	<s> en moet
+-1.954242	beweging en groet
+-1.735599	had en wat
+-1.957448	oke en zat
+-1.957448	oke en zoek
+-1.957448	oogcontact en begroet
+-1.957448	oogcontact en ga
+-1.954242	prima en wat
+-1.954242	ik er even
+-1.954242	je er wat
+-1.592653	pak er even
+-1.735599	broeken erbij ging
+-1.954242	net erboven of
+-1.954242	of eronder </s>
+-1.486667	er even wat
+-1.957448	wel even een
+-1.957448	wel even verder
+-1.735599	model fijn zou
+-1.959041	slim fit in
+-1.954242	en ga verder
+-1.954242	ik ga verder
+-1.954242	kon gaan pakken
+-1.954242	te gaan </s>
+-1.738781	jij gaf aan
+-1.960629	jij gaf een
+-1.083682	klant gaf aan
+-1.735599	maar gaf aan
+-1.837273	in gedachten </s>
+-1.962211	in gedachten had
+-1.962211	in gedachten qua
+-1.44248	hebt gekozen voor
+-1.955848	presenteerde gelijk weer
+-1.735599	je genoeg informatie
+-1.954242	weet genoeg ik
+-1.592653	jij gepresenteerd hebt
+-1.830909	allemaal gesloten vragen
+-1.830909	lijst gesloten vragen
+-1.955848	ieder geval een
+-1.735599	erbij ging pakken
+-1.959041	helemaal goed hebt
+-1.834103	helemaal goed ik
+-1.954242	en groet de
+-1.954242	begroet haar </s>
+-1.954242	in haar buurt
+-1.955848	je haar behoefte
+-1.954242	kleur haar niet
+-1.954242	naar haar maat
+-1.830909	voor haar is
+-1.954242	gedachten had </s>
+-1.735599	informatie had en
+-1.954242	verteld had </s>
+-1.954242	wat had je
+-1.954242	jeans he </s>
+-1.954242	broek heb je
+-1.830909	dan heb ik
+-1.835691	gepresenteerd hebt helemaal
+-1.835691	gepresenteerd hebt niet
+-1.954242	goed hebt samengevat
+-1.44248	jij hebt gekozen
+-1.735599	vraag heeft komt
+-1.830909	een hele lijst
+-1.830909	<s> helemaal goed
+-1.954242	behoefte helemaal goed
+-1.830909	hebt helemaal niks
+-1.735599	u helpen </s>
+-1.954242	<s> het begroeten
+-1.737193	<s> hoe begroet
+-1.598947	een hoog model
+-1.745075	een hoog of
+-1.954242	jeans hoog model
+-1.834103	juist hoog licht
+-1.954242	niet hoor ik
+-1.658011	moet ie laag
+-1.830909	in ieder geval
+-1.957448	<s> ik maak
+-1.735599	bij ik ben
+-1.954242	dat ik eens
+-1.954242	genoeg ik pak
+-1.955848	goed ik pak
+-1.830909	heb ik echt
+-1.954242	hoor ik pak
+-1.735599	kan ik u
+-1.954242	mooi ik pak
+-1.954242	oke ik weet
+-1.954242	pak ik er
+-1.954242	vind ik nooit
+-1.955848	voor ik maak
+-1.954242	achter in de
+-1.954242	fit in een
+-1.738781	je in gedachten
+-1.960629	je in haar
+-1.954242	komt in beweging
+-1.954242	model in een
+-1.954242	ze in gedachten
+-1.735599	genoeg informatie had
+-1.954242	dat is echt
+-1.830909	dit is antwoord
+-1.830909	haar is </s>
+-1.830909	niet is wat
+-1.830909	wat is je
+-1.830909	zoek is naar
+-1.955848	als je in
+-1.537819	begroet je de
+-1.830909	beweeg je vinger
+-1.737193	dacht je van
+-1.738781	dat je genoeg
+-1.960629	dat je haar
+-1.735599	dus je wilt
+-1.955848	had je in
+-1.955848	heb je in
+-1.830909	is je maat
+-1.954242	klant je verteld
+-1.954242	met je vinger
+-1.954242	zat je dan
+-1.954242	zodat je er
+-1.959041	zoek je </s>
+-1.959041	zoek je een
+-1.830909	zou je dat
+-1.954242	aan jeans he
+-1.954242	andere jeans zonder
+-1.954242	een jeans zonder
+-1.963788	skinny jeans hoog
+-1.662758	skinny jeans wil
+-1.637776	<s> jij gaf
+-1.482874	<s> jij hebt
+-1.783904	<s> jij presenteerde
+-1.880814	<s> jij reageerde
+-1.704722	<s> jij stelde
+-2.005752	<s> jij vertelde
+-1.637776	<s> jij vroeg
+-1.592653	die jij gepresenteerd
+-1.830909	skinny jij zou
+-1.830909	wat jij zoekt
+-1.954242	staat jou niet
+-1.735599	al jouw vragen
+-1.662758	of juist hoog
+-1.954242	waarmee kan ik
+-1.954242	de kassa </s>
+-1.954242	een keer een
+-1.955848	een keuzes aan
+-1.451368	de klant </s>
+-2.015639	de klant als
+-2.015639	de klant dat
+-1.112549	de klant gaf
+-2.015639	de klant je
+-1.79379	de klant was
+-1.954242	donkere kleur </s>
+-1.970037	lichte kleur </s>
+-1.970037	lichte kleur haar
+-1.492916	lichte kleur zit
+-1.954242	qua kleur </s>
+-1.955848	voor kleur ze
+-1.830909	leuk kleurtje </s>
+-1.954242	<s> klik hier
+-1.954242	of klik om
+-1.830909	deze knop om
+-1.735599	heeft komt ze
+-1.954242	je komt in
+-1.954242	bij kon gaan
+-1.735599	een laag model
+-1.658011	ie laag zitten
+-1.954242	of laag model
+-1.735599	wel langs </s>
+-1.954242	zo lekker zitten
+-1.830909	een leuk kleurtje
+-1.735599	een leuke spijkerbroek
+-1.954242	<s> licht nee
+-1.830909	hoog licht of
+-1.334763	een lichte kleur
+-1.830909	hele lijst gesloten
+-1.954242	naar links over
+-1.735599	ik maak oogcontact
+-1.735599	vragen maar gaf
+-1.954242	haar maat zodat
+-1.955848	je maat dan
+-1.735599	verder met mijn
+-1.735599	met mijn werk
+-1.830909	of misschien een
+-1.741939	hoog model fijn
+-1.963788	hoog model in
+-1.963788	hoog model zou
+-1.960629	laag model </s>
+-1.960629	laag model op
+-1.960629	laag model slim
+-1.954242	voor model ze
+-1.830909	en moet ie
+-1.954242	<s> mooi ik
+-1.830909	is naar een
+-1.954242	rechts naar links
+-1.954242	vroeg naar haar
+-1.954242	licht nee dat
+-1.954242	nou nee dat
+-1.954242	of net erboven
+-1.830909	skinny net binnen
+-1.954242	haar niet zou
+-1.830909	hebt niet is
+-1.954242	jou niet hoor
+-1.954242	binnen nieuwe collectie
+-1.830909	helemaal niks voor
+-1.954242	ik nooit zo
+-1.830909	blauw of zwart
+-1.954242	erboven of eronder
+-1.957448	hoog of een
+-1.957448	hoog of laag
+-1.830909	licht of donker
+-1.954242	taille of net
+-1.954242	zien of klik
+-1.658011	zitten of juist
+-1.830909	zwart of misschien
+-1.740363	<s> oke en
+-1.962211	<s> oke ik
+-1.954242	klik om verder
+-1.830909	knop om antwoord
+-1.735599	maak oogcontact en
+-1.954242	model op de
+-1.830909	ze op zoek
+-1.954242	links over deze
+-1.735599	was overdonderd door
+-1.954242	dan pak ik
+-1.595811	ik pak er
+-1.963788	ik pak wel
+-1.954242	gaan pakken </s>
+-1.735599	ging pakken </s>
+-1.830909	<s> perfect wat
+-1.735599	welke positie begroet
+-1.830909	echt precies wat
+-1.832509	jij presenteerde gelijk
+-1.954242	<s> prima en
+-1.658011	wil proberen </s>
+-1.954242	gedachten qua kleur
+-1.830909	jij reageerde door
+-1.954242	van rechts naar
+-1.954242	hebt samengevat </s>
+-1.491362	een skinny jeans
+-1.843544	een skinny jij
+-1.835691	zwarte skinny die
+-1.835691	zwarte skinny net
+-1.954242	model slim fit
+-1.832509	leuke spijkerbroek </s>
+-1.954242	zou staan </s>
+-1.954242	dat staat jou
+-1.959041	jij stelde allemaal
+-1.959041	jij stelde een
+-1.954242	de taille of
+-1.954242	dan te denken
+-1.594235	door te vragen
+-1.954242	verder te gaan
+-1.954242	zat te denken
+-1.486667	zit te denken
+-1.735599	zo terug </s>
+-1.735599	ik u helpen
+-1.954242	<s> van achter
+-1.954242	begroeten van de
+-1.735599	je van deze
+-1.954242	samenvatting van dat
+-1.955848	vinger van rechts
+-1.954242	voor van achter
+-1.830909	<s> vanuit welke
+-1.954242	even verder </s>
+-1.735599	ga verder met
+-1.954242	om verder te
+-1.954242	je verteld had
+-1.954242	jij vertelde de
+-1.954242	laag vind ik
+-1.735599	zou vinden </s>
+-1.834103	je vinger van
+-1.84042	gekozen voor ik
+-1.965358	gekozen voor van
+-1.832509	niks voor haar
+-1.665894	wat voor broek
+-1.841985	wat voor kleur
+-1.966924	wat voor model
+-1.735599	een vraag heeft
+-1.659599	gesloten vragen </s>
+-1.735599	jouw vragen maar
+-1.738781	te vragen </s>
+-1.960629	te vragen wat
+-1.960629	jij vroeg aan
+-1.960629	jij vroeg naar
+-1.960629	jij vroeg wat
+-1.735599	klant was overdonderd
+-1.830909	<s> wat voor
+-1.954242	aan wat voor
+-1.954242	dat wat de
+-1.738781	en wat broeken
+-1.960629	en wat had
+-1.954242	er wat broeken
+-1.488237	even wat broeken
+-1.830909	is wat ze
+-1.830909	perfect wat is
+-1.830909	precies wat jij
+-1.954242	vragen wat voor
+-1.954242	vroeg wat voor
+-1.830909	zoekt wat dacht
+-1.954242	gelijk weer een
+-1.954242	ik weet genoeg
+-1.830909	dat wel doen
+-1.954242	pak wel even
+-1.735599	ze wel langs
+-1.735599	vanuit welke positie
+-1.735599	mijn werk als
+-1.658011	jeans wil proberen
+-1.735599	je wilt een
+-1.955848	de winkel </s>
+-1.954242	en zat je
+-1.954242	ze zat te
+-1.735599	als ze een
+-1.503639	dat ze aan
+-1.503639	dat ze een
+-1.855822	dat ze op
+-1.954242	kleur ze in
+-1.735599	komt ze wel
+-1.954242	model ze zat
+-1.830909	wat ze zoekt
+-1.955848	te zien of
+-1.954242	fijn zijn </s>
+-1.486667	kleur zit te
+-1.658011	laag zitten of
+-1.954242	lekker zitten dus
+-1.735599	ben zo terug
+-1.954242	nooit zo lekker
+-1.954242	maat zodat je
+-1.830909	broek zoek je
+-1.954242	en zoek je
+-1.832509	op zoek is
+-1.830909	jij zoekt wat
+-1.830909	ze zoekt </s>
+-1.832509	jeans zonder door
+-1.735599	fijn zou vinden
+-1.830909	jij zou je
+-1.954242	niet zou staan
+-1.830909	of zwart of
+-1.830909	de zwarte skinny
+-1.830909	deze zwarte skinny
+
+\end\
